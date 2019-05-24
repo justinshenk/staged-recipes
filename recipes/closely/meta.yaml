@@ -31,7 +31,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: Closest Pairs finds the closest pairs of points in a dataset
+  summary: Closely finds the closest pairs of points in a dataset
   dev_url: https://github.com/justinshenk/closely
 
 extra:
